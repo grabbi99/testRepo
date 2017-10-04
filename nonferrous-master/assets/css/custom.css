@@ -1,0 +1,21 @@
+/* Add here all your css styles (customizations) */
+img.js-pin-map.img-fluid{
+  width: 100%;
+  display: block;
+}
+
+.g-bg-orange {
+	background-color: #e16925;
+}
+
+.g-bg-beige {
+	background-color: #FEFEE2;
+}
+
+footer address {
+	font-size: 120%;
+}
+
+li.nav-item {
+	font-size: 120%;
+}
